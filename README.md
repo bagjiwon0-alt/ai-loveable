@@ -13,6 +13,7 @@
 - [✨ 주요 기능](#-주요-기능)
 - [🛠 기술 스택](#-기술-스택)
 - [📁 폴더 구조](#-폴더-구조)
+- [🧩 컴포넌트 구성도](#-컴포넌트-구성도)
 - [🚀 시작하기](#-시작하기)
 - [📡 API 엔드포인트](#-api-엔드포인트)
 - [💻 주요 코드](#-주요-코드)
@@ -81,6 +82,47 @@ ai-loveable/
 │       ├── 📄 Transactions.vue # 거래 목록 (CRUD)
 │       └── 📄 AddTransaction.vue # 거래 추가
 └── 📁 public/                  # 정적 파일
+```
+
+---
+
+## 🧩 컴포넌트 구성도
+
+```mermaid
+flowchart TD
+  U[사용자 / 브라우저] --> M[main.js\ncreateApp + Pinia + router]
+  M --> A[App.vue\nSidebar + RouterView]
+
+  A --> RV[RouterView]
+  RV --> R[Vue Router routes]
+  R --> D[Dashboard.vue]
+  R --> T[Transactions.vue]
+  R --> Add[AddTransaction.vue]
+
+  subgraph Store[Pinia Store]
+    S[useTransactionStore\ntransactions/categories + getters]
+  end
+
+  D --> S
+  T --> S
+  Add --> S
+
+  subgraph Data[Axios + json-server]
+    API[stores/api.js\naxios(baseURL: http://localhost:3001)]
+    J[(json-server REST API)]
+  end
+
+  S --> API --> J
+
+  subgraph UI[UI Components]
+    Stat[StatCard.vue\n(잔액/수입/지출/거래건수)]
+    Chart[GoogleChart.vue\n(파이/라인/바)]
+    Loader[Google Charts loader.js\n동적 로딩]
+  end
+
+  D --> Stat
+  D --> Chart
+  Chart --> Loader
 ```
 
 ---
