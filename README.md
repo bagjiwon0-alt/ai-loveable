@@ -108,7 +108,7 @@ flowchart TD
   Add --> S
 
   subgraph Data[Axios + json-server]
-    API[stores/api.js\naxios(baseURL: http://localhost:3001)]
+    API["stores/api.js\naxios(baseURL: 'http://localhost:3001')"]
     J[(json-server REST API)]
   end
 
