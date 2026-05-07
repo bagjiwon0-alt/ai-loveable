@@ -115,9 +115,9 @@ flowchart TD
   S --> API --> J
 
   subgraph UI[UI Components]
-    Stat[StatCard.vue\n(잔액/수입/지출/거래건수)]
-    Chart[GoogleChart.vue\n(파이/라인/바)]
-    Loader[Google Charts loader.js\n동적 로딩]
+    Stat["StatCard.vue\n(잔액/수입/지출/거래건수)"]
+    Chart["GoogleChart.vue\n(파이/라인/바)"]
+    Loader["Google Charts loader.js\n동적 로딩"]
   end
 
   D --> Stat
