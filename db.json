@@ -1,0 +1,981 @@
+{
+  "transactions": [
+    {
+      "id": 47,
+      "type": "income",
+      "category": "투자수익",
+      "description": "주식 배당",
+      "amount": 3500000,
+      "date": "2026-04-30T14:35:00",
+      "payment": "현금"
+    },
+    {
+      "id": 66,
+      "type": "expense",
+      "category": "기타",
+      "description": "수수료",
+      "amount": 12000,
+      "date": "2026-04-28T14:31:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 73,
+      "type": "income",
+      "category": "보너스",
+      "description": "성과급",
+      "amount": 2800000,
+      "date": "2026-04-27T10:45:00",
+      "payment": "현금"
+    },
+    {
+      "id": 11,
+      "type": "expense",
+      "category": "여가",
+      "description": "헬스장",
+      "amount": 12000,
+      "date": "2026-04-25T13:53:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 39,
+      "type": "income",
+      "category": "투자수익",
+      "description": "코인 수익",
+      "amount": 500000,
+      "date": "2026-04-21T18:19:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 43,
+      "type": "expense",
+      "category": "여가",
+      "description": "요가",
+      "amount": 15000,
+      "date": "2026-04-19T09:56:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 82,
+      "type": "expense",
+      "category": "교육",
+      "description": "인강 결제",
+      "amount": 12000,
+      "date": "2026-04-16T09:49:00",
+      "payment": "현금"
+    },
+    {
+      "id": 88,
+      "type": "expense",
+      "category": "교통비",
+      "description": "KTX",
+      "amount": 150000,
+      "date": "2026-04-15T13:00:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 17,
+      "type": "expense",
+      "category": "여가",
+      "description": "골프",
+      "amount": 15000,
+      "date": "2026-04-14T13:07:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 71,
+      "type": "expense",
+      "category": "여가",
+      "description": "여행",
+      "amount": 89000,
+      "date": "2026-04-10T11:17:00",
+      "payment": "현금"
+    },
+    {
+      "id": 78,
+      "type": "expense",
+      "category": "통신",
+      "description": "인터넷",
+      "amount": 8900,
+      "date": "2026-04-09T16:01:00",
+      "payment": "현금"
+    },
+    {
+      "id": 59,
+      "type": "expense",
+      "category": "교통비",
+      "description": "지하철",
+      "amount": 23000,
+      "date": "2026-04-09T13:42:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 83,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "넷플릭스",
+      "amount": 3000,
+      "date": "2026-04-09T10:15:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 61,
+      "type": "income",
+      "category": "투자수익",
+      "description": "코인 수익",
+      "amount": 500000,
+      "date": "2026-04-07T17:19:00",
+      "payment": "현금"
+    },
+    {
+      "id": 2,
+      "type": "expense",
+      "category": "여가",
+      "description": "헬스장",
+      "amount": 5500,
+      "date": "2026-04-01T14:02:00",
+      "payment": "현금"
+    },
+    {
+      "id": 99,
+      "type": "income",
+      "category": "투자수익",
+      "description": "예금 이자",
+      "amount": 1500000,
+      "date": "2026-03-31T20:33:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 62,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "공연 티켓",
+      "amount": 45000,
+      "date": "2026-03-29T17:41:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 37,
+      "type": "expense",
+      "category": "기타",
+      "description": "선물",
+      "amount": 12000,
+      "date": "2026-03-29T17:02:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 27,
+      "type": "income",
+      "category": "보너스",
+      "description": "명절 보너스",
+      "amount": 3500000,
+      "date": "2026-03-28T15:15:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 75,
+      "type": "expense",
+      "category": "기타",
+      "description": "선물",
+      "amount": 3000,
+      "date": "2026-03-28T14:30:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 91,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "도서 구매",
+      "amount": 89000,
+      "date": "2026-03-26T17:42:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 87,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 5500,
+      "date": "2026-03-25T20:02:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 94,
+      "type": "income",
+      "category": "투자수익",
+      "description": "예금 이자",
+      "amount": 2800000,
+      "date": "2026-03-23T20:15:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 93,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사",
+      "amount": 15000,
+      "date": "2026-03-23T08:33:00",
+      "payment": "현금"
+    },
+    {
+      "id": 31,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 2800000,
+      "date": "2026-03-21T09:03:00",
+      "payment": "현금"
+    },
+    {
+      "id": 42,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "애플스토어",
+      "amount": 89000,
+      "date": "2026-03-20T19:19:00",
+      "payment": "현금"
+    },
+    {
+      "id": 76,
+      "type": "expense",
+      "category": "주거",
+      "description": "가스비",
+      "amount": 45000,
+      "date": "2026-03-18T19:47:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 16,
+      "type": "expense",
+      "category": "기타",
+      "description": "선물",
+      "amount": 89000,
+      "date": "2026-03-16T12:35:00",
+      "payment": "현금"
+    },
+    {
+      "id": 18,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 1500000,
+      "date": "2026-03-09T20:11:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 45,
+      "type": "income",
+      "category": "용돈",
+      "description": "부모님 용돈",
+      "amount": 3500000,
+      "date": "2026-03-06T12:57:00",
+      "payment": "현금"
+    },
+    {
+      "id": 92,
+      "type": "income",
+      "category": "용돈",
+      "description": "친구 빌려준 돈 회수",
+      "amount": 500000,
+      "date": "2026-03-05T11:22:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 77,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 45000,
+      "date": "2026-03-05T08:24:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 63,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "넷플릭스",
+      "amount": 150000,
+      "date": "2026-03-02T20:57:00",
+      "payment": "현금"
+    },
+    {
+      "id": 96,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 23000,
+      "date": "2026-03-02T16:33:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 84,
+      "type": "expense",
+      "category": "기타",
+      "description": "기부",
+      "amount": 12000,
+      "date": "2026-02-28T19:16:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 74,
+      "type": "expense",
+      "category": "교육",
+      "description": "책 구매",
+      "amount": 150000,
+      "date": "2026-02-28T14:03:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 79,
+      "type": "income",
+      "category": "투자수익",
+      "description": "코인 수익",
+      "amount": 500000,
+      "date": "2026-02-27T10:03:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 40,
+      "type": "expense",
+      "category": "교통비",
+      "description": "지하철",
+      "amount": 3000,
+      "date": "2026-02-26T17:36:00",
+      "payment": "현금"
+    },
+    {
+      "id": 57,
+      "type": "expense",
+      "category": "교육",
+      "description": "인강 결제",
+      "amount": 23000,
+      "date": "2026-02-20T17:32:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 69,
+      "type": "expense",
+      "category": "통신",
+      "description": "넷플릭스 구독",
+      "amount": 150000,
+      "date": "2026-02-18T21:58:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 67,
+      "type": "income",
+      "category": "급여",
+      "description": "상여금",
+      "amount": 300000,
+      "date": "2026-02-17T11:11:00",
+      "payment": "현금"
+    },
+    {
+      "id": 50,
+      "type": "expense",
+      "category": "교육",
+      "description": "책 구매",
+      "amount": 150000,
+      "date": "2026-02-13T17:47:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 32,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "넷플릭스",
+      "amount": 8900,
+      "date": "2026-02-13T15:30:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 29,
+      "type": "expense",
+      "category": "교통비",
+      "description": "지하철",
+      "amount": 3000,
+      "date": "2026-02-12T19:21:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 60,
+      "type": "expense",
+      "category": "주거",
+      "description": "가스비",
+      "amount": 23000,
+      "date": "2026-02-12T19:18:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 9,
+      "type": "expense",
+      "category": "교육",
+      "description": "세미나",
+      "amount": 8900,
+      "date": "2026-02-03T13:13:00",
+      "payment": "현금"
+    },
+    {
+      "id": 7,
+      "type": "income",
+      "category": "용돈",
+      "description": "부모님 용돈",
+      "amount": 3500000,
+      "date": "2026-02-01T17:12:00",
+      "payment": "현금"
+    },
+    {
+      "id": 14,
+      "type": "expense",
+      "category": "주거",
+      "description": "가스비",
+      "amount": 45000,
+      "date": "2026-02-01T11:08:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 97,
+      "type": "expense",
+      "category": "여가",
+      "description": "골프",
+      "amount": 23000,
+      "date": "2026-01-30T19:29:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 28,
+      "type": "income",
+      "category": "급여",
+      "description": "상여금",
+      "amount": 2800000,
+      "date": "2026-01-30T14:26:00",
+      "payment": "현금"
+    },
+    {
+      "id": 55,
+      "type": "expense",
+      "category": "교통비",
+      "description": "KTX",
+      "amount": 15000,
+      "date": "2026-01-29T18:32:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 80,
+      "type": "expense",
+      "category": "통신",
+      "description": "인터넷",
+      "amount": 23000,
+      "date": "2026-01-26T20:56:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 5,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "나이키",
+      "amount": 12000,
+      "date": "2026-01-26T09:05:00",
+      "payment": "현금"
+    },
+    {
+      "id": 72,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "전시회",
+      "amount": 15000,
+      "date": "2026-01-25T13:57:00",
+      "payment": "현금"
+    },
+    {
+      "id": 90,
+      "type": "expense",
+      "category": "기타",
+      "description": "선물",
+      "amount": 15000,
+      "date": "2026-01-22T21:15:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 38,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사",
+      "amount": 150000,
+      "date": "2026-01-20T22:16:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 98,
+      "type": "expense",
+      "category": "교통비",
+      "description": "주유",
+      "amount": 12000,
+      "date": "2026-01-20T09:47:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 35,
+      "type": "expense",
+      "category": "여가",
+      "description": "여행",
+      "amount": 3000,
+      "date": "2026-01-20T08:03:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 23,
+      "type": "expense",
+      "category": "여가",
+      "description": "골프",
+      "amount": 12000,
+      "date": "2026-01-19T14:42:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 85,
+      "type": "expense",
+      "category": "교통비",
+      "description": "지하철",
+      "amount": 8900,
+      "date": "2026-01-19T09:37:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 12,
+      "type": "expense",
+      "category": "교육",
+      "description": "세미나",
+      "amount": 45000,
+      "date": "2026-01-08T09:13:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 70,
+      "type": "expense",
+      "category": "통신",
+      "description": "넷플릭스 구독",
+      "amount": 89000,
+      "date": "2026-01-06T20:15:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 24,
+      "type": "expense",
+      "category": "통신",
+      "description": "인터넷",
+      "amount": 5500,
+      "date": "2026-01-03T11:04:00",
+      "payment": "현금"
+    },
+    {
+      "id": 1,
+      "type": "expense",
+      "category": "식비",
+      "description": "편의점",
+      "amount": 15000,
+      "date": "2026-01-02T11:08:00",
+      "payment": "현금"
+    },
+    {
+      "id": 10,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "나이키",
+      "amount": 150000,
+      "date": "2026-01-02T10:29:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 8,
+      "type": "expense",
+      "category": "의료",
+      "description": "치과",
+      "amount": 5500,
+      "date": "2025-12-30T21:06:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 100,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "공연 티켓",
+      "amount": 15000,
+      "date": "2025-12-29T13:11:00",
+      "payment": "현금"
+    },
+    {
+      "id": 53,
+      "type": "expense",
+      "category": "통신",
+      "description": "인터넷",
+      "amount": 12000,
+      "date": "2025-12-22T21:58:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 86,
+      "type": "expense",
+      "category": "주거",
+      "description": "관리비",
+      "amount": 45000,
+      "date": "2025-12-21T09:37:00",
+      "payment": "현금"
+    },
+    {
+      "id": 36,
+      "type": "income",
+      "category": "부수입",
+      "description": "프리랜서",
+      "amount": 300000,
+      "date": "2025-12-18T09:38:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 56,
+      "type": "expense",
+      "category": "교통비",
+      "description": "지하철",
+      "amount": 15000,
+      "date": "2025-12-16T17:16:00",
+      "payment": "현금"
+    },
+    {
+      "id": 22,
+      "type": "income",
+      "category": "투자수익",
+      "description": "예금 이자",
+      "amount": 3500000,
+      "date": "2025-12-13T12:33:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 52,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "영화관",
+      "amount": 15000,
+      "date": "2025-12-11T20:44:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 15,
+      "type": "income",
+      "category": "급여",
+      "description": "상여금",
+      "amount": 300000,
+      "date": "2025-12-10T18:10:00",
+      "payment": "현금"
+    },
+    {
+      "id": 89,
+      "type": "income",
+      "category": "용돈",
+      "description": "친구 빌려준 돈 회수",
+      "amount": 2800000,
+      "date": "2025-12-10T14:11:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 19,
+      "type": "expense",
+      "category": "여가",
+      "description": "요가",
+      "amount": 12000,
+      "date": "2025-12-10T13:48:00",
+      "payment": "현금"
+    },
+    {
+      "id": 44,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 3500000,
+      "date": "2025-12-10T12:18:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 34,
+      "type": "expense",
+      "category": "여가",
+      "description": "요가",
+      "amount": 89000,
+      "date": "2025-12-10T11:18:00",
+      "payment": "현금"
+    },
+    {
+      "id": 13,
+      "type": "expense",
+      "category": "주거",
+      "description": "관리비",
+      "amount": 89000,
+      "date": "2025-12-07T12:08:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 30,
+      "type": "income",
+      "category": "부수입",
+      "description": "중고거래",
+      "amount": 2800000,
+      "date": "2025-12-06T14:11:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 68,
+      "type": "expense",
+      "category": "교통비",
+      "description": "주유",
+      "amount": 89000,
+      "date": "2025-12-05T20:29:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 41,
+      "type": "expense",
+      "category": "여가",
+      "description": "헬스장",
+      "amount": 15000,
+      "date": "2025-12-04T22:22:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 20,
+      "type": "expense",
+      "category": "통신",
+      "description": "인터넷",
+      "amount": 3000,
+      "date": "2025-11-29T22:23:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 64,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사",
+      "amount": 23000,
+      "date": "2025-11-24T21:48:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 21,
+      "type": "income",
+      "category": "부수입",
+      "description": "프리랜서",
+      "amount": 300000,
+      "date": "2025-11-22T19:31:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 81,
+      "type": "expense",
+      "category": "주거",
+      "description": "가스비",
+      "amount": 15000,
+      "date": "2025-11-21T15:01:00",
+      "payment": "현금"
+    },
+    {
+      "id": 26,
+      "type": "income",
+      "category": "급여",
+      "description": "상여금",
+      "amount": 1500000,
+      "date": "2025-11-19T16:15:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 6,
+      "type": "expense",
+      "category": "교육",
+      "description": "인강 결제",
+      "amount": 15000,
+      "date": "2025-11-12T19:29:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 58,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "영화관",
+      "amount": 15000,
+      "date": "2025-11-12T19:27:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 49,
+      "type": "income",
+      "category": "용돈",
+      "description": "부모님 용돈",
+      "amount": 1500000,
+      "date": "2025-11-11T22:22:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 48,
+      "type": "income",
+      "category": "보너스",
+      "description": "성과급",
+      "amount": 3500000,
+      "date": "2025-11-10T21:23:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 54,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "도서 구매",
+      "amount": 12000,
+      "date": "2025-11-07T18:12:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 3,
+      "type": "income",
+      "category": "부수입",
+      "description": "원고료",
+      "amount": 3500000,
+      "date": "2025-11-07T16:12:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 51,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "올리브영",
+      "amount": 45000,
+      "date": "2025-11-07T10:47:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 65,
+      "type": "income",
+      "category": "보너스",
+      "description": "명절 보너스",
+      "amount": 500000,
+      "date": "2025-11-07T08:15:00",
+      "payment": "현금"
+    },
+    {
+      "id": 95,
+      "type": "expense",
+      "category": "통신",
+      "description": "휴대폰 요금",
+      "amount": 89000,
+      "date": "2025-11-05T09:18:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 4,
+      "type": "income",
+      "category": "부수입",
+      "description": "프리랜서",
+      "amount": 1500000,
+      "date": "2025-11-02T20:51:00",
+      "payment": "계좌이체"
+    },
+    {
+      "id": 25,
+      "type": "expense",
+      "category": "문화생활",
+      "description": "영화관",
+      "amount": 12000,
+      "date": "2025-11-02T09:45:00",
+      "payment": "체크카드"
+    },
+    {
+      "id": 33,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "나이키",
+      "amount": 45000,
+      "date": "2025-11-01T14:16:00",
+      "payment": "신용카드"
+    },
+    {
+      "id": 46,
+      "type": "expense",
+      "category": "의료",
+      "description": "약국",
+      "amount": 3000,
+      "date": "2025-11-01T13:49:00",
+      "payment": "신용카드"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "급여",
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "name": "보너스",
+      "type": "income"
+    },
+    {
+      "id": 3,
+      "name": "용돈",
+      "type": "income"
+    },
+    {
+      "id": 4,
+      "name": "투자수익",
+      "type": "income"
+    },
+    {
+      "id": 5,
+      "name": "부수입",
+      "type": "income"
+    },
+    {
+      "id": 1,
+      "name": "식비",
+      "type": "expense"
+    },
+    {
+      "id": 2,
+      "name": "교통비",
+      "type": "expense"
+    },
+    {
+      "id": 3,
+      "name": "쇼핑",
+      "type": "expense"
+    },
+    {
+      "id": 4,
+      "name": "문화생활",
+      "type": "expense"
+    },
+    {
+      "id": 5,
+      "name": "의료",
+      "type": "expense"
+    },
+    {
+      "id": 6,
+      "name": "교육",
+      "type": "expense"
+    },
+    {
+      "id": 7,
+      "name": "주거",
+      "type": "expense"
+    },
+    {
+      "id": 8,
+      "name": "통신",
+      "type": "expense"
+    },
+    {
+      "id": 9,
+      "name": "여가",
+      "type": "expense"
+    },
+    {
+      "id": 10,
+      "name": "기타",
+      "type": "expense"
+    }
+  ]
+}
